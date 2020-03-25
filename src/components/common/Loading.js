@@ -9,11 +9,11 @@ const Loading = (props) => {
       <div
          className="Loading"
          style={{ width, height }}
-      />
+      ></div>
     ); 
 };
 
-Loading.PropTypes = {
+Loading.propTypes = {
     width: PropTypes.string,
     height: PropTypes.string, 
 };
