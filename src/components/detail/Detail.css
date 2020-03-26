@@ -23,19 +23,19 @@
   }
   .Detail-value {
     border-radius: 20px;
-    background-color: #1F364D;
+    background-color: #1f364d;
     font-size: 14px;
     padding: 8px 12px;
     margin-left: 10px;
   }
   .Detail-title {
     display: block;
-    color: #9CB3C9;
+    color: #9cb3c9;
     font-size: 12px;
     font-weight: bold;
     margin-bottom: 10px;
   }
   .Detail-dollar {
-    color: #9CB3C9;
+    color: #9cb3c9;
     margin-right: 6px;
   }
