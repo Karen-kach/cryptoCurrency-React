@@ -5,6 +5,7 @@ import { handleResponse } from '../../helpers.js';
 import Loading from '../common/Loading';
 import { API_URL } from '../../config';
 import './Search.css';
+
 class Search extends React.Component {
   constructor() {
     super();
